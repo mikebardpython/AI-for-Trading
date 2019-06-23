@@ -22,4 +22,3 @@
 *	def get_optimal_weights – minimize portfolio variance and closely track benchmark index (aka – minimize the distance between the weights of our portfolio and the weights of the index.
 *	def rebalance_portfolio – rebalance portfolio every n number of days and compute the optimal weights using above functions get_optimal_weights & get_covariance_returns
 *	def get_portfolio_turnover  - porfolios with higher turnover have higher costs.Wwith the portfolio rebalanced, we need to use a metric to measure the cost of rebalancing the portfolio
-
