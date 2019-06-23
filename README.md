@@ -3,7 +3,7 @@
 
 ### Project 3 - Smart Beta and Portfolio Optimization
 
-Part1 – Smart Beta Portfolio
+*Part1 – Smart Beta Portfolio*
 * Build portfolio using dividend yield to show portfolio weights
 * Compare the portfolio to a market cap weighted index to see how well it performed
 * For this exercise we will simulate a market cap weighted index
