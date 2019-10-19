@@ -1,0 +1,5 @@
+* Build a statistical risk model using PCA
+* Build a portfolio along with 5 alpha factors
+* Create factors, then evaluate them using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis
+* Optimize the portfolio using the risk model and factors using optimization formulations
+* eod data from Quotemedia / sector data from Sharadar
